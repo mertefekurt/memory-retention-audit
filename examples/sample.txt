@@ -1,0 +1,1 @@
+memory store enabled retention forever pii true scope global
